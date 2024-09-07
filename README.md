@@ -1,4 +1,6 @@
 ```bash
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
 ssh-keygen # creates ssh key, place in profile settings
 git clone <ssh-link>
 git checkout -b <branch name> # creates a local branch
