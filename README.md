@@ -11,4 +11,4 @@ git log # view old commits, verify commit
 git push origin <branch name> # pushes local branch and the committed changes to the rem ote repository
 ```
 
-ditto cli change
+vscode update
